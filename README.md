@@ -1,10 +1,12 @@
 # Image Generation  Landscape
 
-## Reddit Posts:
+## News:
 
-- [[N]https://www.digitaltrends.com/photography/nivida-style-transfer-fake-portraits-research/?utm_campaign=Abundance%20Insider&utm_source=hs_email&utm_medium=email&utm_content=68563810&_hsenc=p2ANqtz--RyNMKBEBU5S1b5AG6eadAmmxo1itDOKirx55N14FdUgm9jCh-LWQKYaLopaLHeSdcRloCOBAUluqHj7pK-byIIKNilA&_hsmi=68563810
-- [[R]https://blog.openai.com/glow
+- https://www.digitaltrends.com/photography/nivida-style-transfer-fake-portraits-research/?utm_campaign=Abundance%20Insider&utm_source=hs_email&utm_medium=email&utm_content=68563810&_hsenc=p2ANqtz--RyNMKBEBU5S1b5AG6eadAmmxo1itDOKirx55N14FdUgm9jCh-LWQKYaLopaLHeSdcRloCOBAUluqHj7pK-byIIKNilA&_hsmi=68563810
+- https://blog.openai.com/glow
 - https://youtu.be/dqxqbvyOnMY
+
+## Reddit Posts:
 
 
 ## Samples from github:
