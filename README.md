@@ -13,6 +13,9 @@
 | ------------- |:---------------------------:| -----:| ------:|------:|-------:|
 | [Nvidea's UNIT](https://photos.app.goo.gl/5x7oIifLh2BVJemb2)|[Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models)|[Code](https://github.com/mingyuliutw/UNIT)|[1703.00848](https://arxiv.org/abs/1703.00848)| A | Non Commercial CC |
 | [Fast Style Transfer](https://www.youtube.com/watch?v=xVJwwWQlQ1o)|[Model](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ?usp=sharing)|[Code](https://github.com/lengstrom/fast-style-transfer)|[1508.06576](https://arxiv.org/abs/1508.06576), [eccv16](https://cs.stanford.edu/people/jcjohns/eccv16/), [1607.08022](https://arxiv.org/abs/1607.08022)| A | ---|
+| [Neural Style Transfer](https://tenso.rs/demos/fast-neural-style/)|[Model](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)|[Code](https://github.com/anishathalye/neural-style)|[508.06576v2](https://arxiv.org/pdf/1508.06576v2.pdf)| B | ---|
+
+
 ## Work in progress:
 
 If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
