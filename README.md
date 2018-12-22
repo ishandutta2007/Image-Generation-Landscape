@@ -11,7 +11,7 @@
 
 | Samples       | Pretrained Models           | Code  | Paper  | Output Quality|License
 | ------------- |:---------------------------:| -----:| ------:|------:|-------:|
-| [Nvidea's UNIT](https://photos.app.goo.gl/5x7oIifLh2BVJemb2)|[Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models)|--|[1703.00848](https://arxiv.org/abs/1703.00848)| D | Non Commercial CC
+| [Nvidea's UNIT](https://photos.app.goo.gl/5x7oIifLh2BVJemb2)|[Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models)|[Code](https://github.com/mingyuliutw/UNIT)|[1703.00848](https://arxiv.org/abs/1703.00848)| D | Non Commercial CC
 
 ## Work in progress:
 
