@@ -20,9 +20,8 @@ https://www.reddit.com/r/MachineLearning/comments/9wk188/p_biggan_generators_on_
 | [Neural Style Transfer](https://tenso.rs/demos/fast-neural-style/)|[Model](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)|[Code](https://github.com/anishathalye/neural-style)|[508.06576v2](https://arxiv.org/pdf/1508.06576v2.pdf)| B | ---|
 | [Disney's Deep Scattering](https://www.youtube.com/watch?v=7wt-9fjPDjQ)|--|--|http://drz.disneyresearch.com/~jnovak/publications/DeepScattering| B | ---|
 | [Dream up images](https://www.youtube.com/watch?v=ZKQp28OqwNQ)|[Colab](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)|[1809.11096](https://arxiv.org/abs/1809.11096)||B|--|
-|[Caricature GAN]https://cari-gan.github.io|[Code]()|[carigan](http://ai.stanford.edu/~kaidicao/carigan.pdf), [1811.00222](https://arxiv.org/pdf/1811.00222.pdf)||B|--|
-
-
+|[Caricature GAN]https://cari-gan.github.io|[Code]()|[carigan](http://ai.stanford.edu/~kaidicao/carigan.pdf), [1811.00222](https://arxiv.org/pdf/1811.00222.pdf)|--|B|--|
+|[Pose and Appearance Transfer](https://www.youtube.com/watch?v=F-00NhYUnH4)|[Models](https://heibox.uni-heidelberg.de/d/71842715a8/)|[Code](https://github.com/CompVis/vunet)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
 
 
 
