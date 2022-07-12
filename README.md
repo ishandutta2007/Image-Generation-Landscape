@@ -22,6 +22,8 @@ https://www.reddit.com/r/MachineLearning/comments/9wk188/p_biggan_generators_on_
 | [Dream up images](https://www.youtube.com/watch?v=ZKQp28OqwNQ)|[Colab](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)|[1809.11096](https://arxiv.org/abs/1809.11096)||B|--|
 |[Caricature GAN]https://cari-gan.github.io|[Code]()|[carigan](http://ai.stanford.edu/~kaidicao/carigan.pdf), [1811.00222](https://arxiv.org/pdf/1811.00222.pdf)|--|B|--|
 |[Pose and Appearance Transfer](https://www.youtube.com/watch?v=F-00NhYUnH4)|[Models](https://heibox.uni-heidelberg.de/d/71842715a8/)|[Code](https://github.com/CompVis/vunet)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
+|[DALL E 2](https://www.youtube.com/watch?v=sBUku3wVE2g)|[Models](https://heibox)|[Code](https://github.com/openai/DALL-E)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
+|[Imagin](https://www.youtube.com/watch?v=NYGdO5E_5oY)|[Models](https://heibox)|[Code](https://github.com/CompVis/vunet)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
 
 
 
