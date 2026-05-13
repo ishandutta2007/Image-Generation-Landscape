@@ -44,3 +44,7 @@ If you want the good work to continue please support us on
 
 * [PAYPAL](https://www.paypal.me/ishandutta2007)
 * [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Image-Generation-Landscape&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Image-Generation-Landscape&type=date&legend=top-left)
