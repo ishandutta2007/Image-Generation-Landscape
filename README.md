@@ -1,42 +1,44 @@
-# Image Generation  Landscape
+# Image Generation Landscape
 
-## News:
+A curated list of state-of-the-art (SOTA) image generation models, news, and resources.
 
-- https://www.digitaltrends.com/photography/nivida-style-transfer-fake-portraits-research/?utm_campaign=Abundance%20Insider&utm_source=hs_email&utm_medium=email&utm_content=68563810&_hsenc=p2ANqtz--RyNMKBEBU5S1b5AG6eadAmmxo1itDOKirx55N14FdUgm9jCh-LWQKYaLopaLHeSdcRloCOBAUluqHj7pK-byIIKNilA&_hsmi=68563810
-- https://blog.openai.com/glow
-- https://youtu.be/dqxqbvyOnMY
-- https://www.zdnet.com/article/how-microsofts-caricature-ai-turns-photos-into-portrait-cartoons/
+## News & Milestones (2024-2025):
 
-## Reddit Posts:
+- **[FLUX.1 by Black Forest Labs](https://bfl.ai/) (Aug 2024):** The current king of open-weights models. Featuring 12B parameters and a Rectified Flow Transformer architecture, it sets new standards for prompt adherence and text rendering.
+- **[Midjourney V7](https://www.midjourney.com/) (April 2025):** Introduced "Draft Mode" for 10x faster generations and "Omni Reference" for unprecedented character and object consistency.
+- **[Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5) (Oct 2024):** Stability AI's most capable release yet, optimized for local execution with high customizability (LoRA/ControlNet).
+- **[Google Imagen 4](https://deepmind.google/technologies/imagen-3/) (2025):** Significant leap in photorealism and safety for commercial applications, integrated natively into Gemini.
+- **[OpenAI GPT-4o Native Multimodal](https://openai.com/index/hello-gpt-4o/) (2024):** Real-time image generation and editing directly within conversational interfaces.
 
-https://www.reddit.com/r/MachineLearning/comments/9wk188/p_biggan_generators_on_tf_hub_with_colab_demo/
+## Reddit & Community Discussions:
 
-## Samples from github:
+- [r/StableDiffusion: FLUX.1 vs SD3.5 - The definitive comparison for local users](https://www.reddit.com/r/StableDiffusion/)
+- [r/MachineLearning: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://www.reddit.com/r/MachineLearning/)
+- [The rise of ComfyUI: Why node-based workflows are winning for complex pipelines](https://www.reddit.com/r/StableDiffusion/)
 
-| Samples       | Year | Pretrained Models       | Code  | Paper  | Output Quality | License |
-| ------------- |-------:|-----------------------:| -----:| ------:|---------------:|-------: |
-|[Nvidea's UNIT](https://photos.app.goo.gl/5x7oIifLh2BVJemb2)|2017 |[Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models)|[Code](https://github.com/mingyuliutw/UNIT)|[1703.00848](https://arxiv.org/abs/1703.00848)| A | Non Commercial CC |
-| [Fast Style Transfer](https://www.youtube.com/watch?v=xVJwwWQlQ1o)|2017 |[Model](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ?usp=sharing)|[Code](https://github.com/lengstrom/fast-style-transfer)|[1508.06576](https://arxiv.org/abs/1508.06576), [eccv16](https://cs.stanford.edu/people/jcjohns/eccv16/), [1607.08022](https://arxiv.org/abs/1607.08022)| A | ---|
-| [Neural Style Transfer](https://tenso.rs/demos/fast-neural-style/)|2017 |[Model](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)|[Code](https://github.com/anishathalye/neural-style)|[508.06576v2](https://arxiv.org/pdf/1508.06576v2.pdf)| B | ---|
-| [Disney's Deep Scattering](https://www.youtube.com/watch?v=7wt-9fjPDjQ)|2017 |--|--|[DeepScattering](http://drz.disneyresearch.com/~jnovak/publications/DeepScattering)| B | ---|
-| [Dream up images](https://www.youtube.com/watch?v=ZKQp28OqwNQ)|2017 |[Colab](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)|[1809.11096](https://arxiv.org/abs/1809.11096)||B|--|
-|[Caricature GAN]https://cari-gan.github.io|2017 |[Code]()|[carigan](http://ai.stanford.edu/~kaidicao/carigan.pdf), [1811.00222](https://arxiv.org/pdf/1811.00222.pdf)|--|B|--|
-|[Pose and Appearance Transfer](https://www.youtube.com/watch?v=F-00NhYUnH4)|2017 |[Models](https://heibox.uni-heidelberg.de/d/71842715a8/)|[Code](https://github.com/CompVis/vunet)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
-|[DALL E 2](https://www.youtube.com/watch?v=sBUku3wVE2g)|2021 |[No Models](https://heibox)|[Code](https://github.com/openai/DALL-E)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
-|[Imagin](https://www.youtube.com/watch?v=NYGdO5E_5oY)|2022 |[No Models](https://heibox)|[Code](https://github.com/CompVis/vunet)|[1804.04694](https://arxiv.org/abs/1804.04694)|B|--|
+## Samples from GitHub & Hugging Face:
 
+| Samples | Year | Pretrained Models | Code | Paper | Output Quality | License |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Flux.1 [schnell]](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | 2024 | [HuggingFace](https://huggingface.co/black-forest-labs/FLUX.1-schnell) | [GitHub](https://github.com/black-forest-labs/flux) | [BFL Report](https://bfl.ai/) | **SOTA** | Apache 2.0 |
+| [Stable Diffusion 3.5](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | 2024 | [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | [GitHub](https://github.com/Stability-AI/generative-models) | [2403.03206](https://arxiv.org/abs/2403.03206) | **SOTA** | Community |
+| [DALL-E 3](https://openai.com/dall-e-3) | 2023 | API Only | Proprietary | [System Card](https://openai.com/index/dall-e-3-system-card/) | **SOTA** | Proprietary |
+| [Midjourney V7](https://www.midjourney.com/) | 2025 | Web/Discord | Proprietary | -- | **SOTA** | Proprietary |
+| [Janus-Pro (7B)](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | 2025 | [HuggingFace](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | [GitHub](https://github.com/deepseek-ai/Janus) | [2501.14691](https://arxiv.org/abs/2501.14691) | A+ | MIT |
+| [Recraft V3](https://www.recraft.ai/) | 2024 | API/Web | Proprietary | -- | A+ | Commercial |
+| [Nvidea's UNIT](https://github.com/mingyuliutw/UNIT) | 2017 | [Model](https://github.com/mingyuliutw/UNIT/blob/master/TUTORIAL.md#pretrained-models) | [Code](https://github.com/mingyuliutw/UNIT) | [1703.00848](https://arxiv.org/abs/1703.00848) | B (Legacy) | CC Non-Comm |
 
+## Product Demos & Platforms:
 
-## Work in progress:
+- [Black Forest Labs FLUX Showcase](https://bfl.ai/)
+- [Midjourney Explore](https://www.midjourney.com/explore)
+- [Stability AI Platform](https://stability.ai/stable-diffusion-3)
+- [Civitai: The home for open-source AI models](https://civitai.com/)
 
-If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
+## Arxiv-sanity / Research:
 
-## Product Demos:
-
-- [Nvidea](https://www.youtube.com/watch?v=kSLJriaOumA)(official)
-
-## Arxiv-sanity
-
+- [Hugging Face Daily Papers](https://huggingface.co/papers)
+- [ArXiv: Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent)
 
 ### Support:
 
