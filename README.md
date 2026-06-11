@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Image-Generation-Landscape/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Image-Generation-Landscape?style=for-the-badge&color=green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+![GitHub followers](https://img.shields.io/github/followers/ishandutta2007)
 
 A comprehensive, curated list of **State-of-the-Art (SOTA) Image Generation models**, Generative AI research, and text-to-image tools. Stay updated with the latest advancements in **Stable Diffusion, FLUX.1, Midjourney, and DALL-E**.
 
